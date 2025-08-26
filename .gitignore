@@ -3,6 +3,10 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+src/ids3000/__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
 # --- Virtual environments ---
 .venv/
