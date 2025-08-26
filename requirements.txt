@@ -1,3 +1,4 @@
+uv
 crewai
 watchdog
 flask

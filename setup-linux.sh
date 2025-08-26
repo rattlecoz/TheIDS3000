@@ -14,5 +14,5 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 echo "Setup complete. To run the project, activate the environment:"
-echo "source .venv/bin/activate"
-echo "python3 src/ids3000/main.py"
+echo "	source .venv/bin/activate"
+echo "	python3 src/ids3000/main.py"
