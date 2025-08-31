@@ -2,7 +2,7 @@
 # Quick setup for IDS 3000
 
 # Create virtual environment
-python -m venv .venv
+python3 -m venv .venv
 
 # Activate it
 source .venv/bin/activate
